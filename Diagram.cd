@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Course">
+    <Position X="9.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAABAAAAAAIAAIgoAKAAAAAEAABQAAAFACQAQEg=</HashCode>
+      <FileName>Course.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DatabaseContext">
+    <Position X="12.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQMAAAAAACCAAAEAAAAgAABAAAAAEAAAAAACAAI=</HashCode>
+      <FileName>DatabaseContext.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Deanery">
+    <Position X="18" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAgAAAAAAAAAEEAAAEAABAAAAEAAAAAEA=</HashCode>
+      <FileName>Deanery.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Department">
+    <Position X="7.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAEAAMAABAAAAEAAAAAEI=</HashCode>
+      <FileName>Department.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Faculty">
+    <Position X="16.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAIAAAAAgAAAAAAAMAABAAAAEAAACAEI=</HashCode>
+      <FileName>Faculty.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IUniversity">
+    <Position X="13" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>IUniversity.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Student">
+    <Position X="11" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QIAQAAKBYAAAgAAAAAAAgAIgAAgEAABAA2AEBAAAAEA=</HashCode>
+      <FileName>Student.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Teacher">
+    <Position X="14.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIEAAAoAIAAgAAIgCAAAgAAAAAgEAABAAIAMCAAAAEA=</HashCode>
+      <FileName>Teacher.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
